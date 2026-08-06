@@ -1,0 +1,7 @@
+ProductID,ProductName,CategoryName,Price,Stock
+1,Laptop,Electronics,53000.00,18
+2,Mobile,Electronics,25000.00,35
+3,T-Shirt,Clothing,799.00,100
+4,"Java Book",Books,650.00,50
+5,"Python Book",Books,677.00,50
+16,jean-pant,clothing,850.00,50
